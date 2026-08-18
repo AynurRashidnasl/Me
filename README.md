@@ -7,7 +7,7 @@
 ### About Me
 
 
-💻 IT & Computer Networks Graduate | Passionate about technology & innovation
+ IT & Computer Networks Graduate | Passionate about technology & innovation
 
  Python Developer – Desktop apps & continuous learning
 
