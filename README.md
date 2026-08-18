@@ -9,15 +9,15 @@
 
 💻 IT & Computer Networks Graduate | Passionate about technology & innovation
 
-🐍 Python Developer – Desktop apps & continuous learning
+ Python Developer – Desktop apps & continuous learning
 
-🔐 Exploring Cybersecurity – always curious about the latest in security
+ Exploring Cybersecurity – always curious about the latest in security
 
-🌐 Previous experience in Digital Marketing (SEO & Content Strategy)
+ Previous experience in Digital Marketing (SEO & Content Strategy)
 
-🗣 Languages: Turkish , Azerbaijani , Persian, English
+ Languages: Turkish , Azerbaijani , Persian, English
 
-🎯 Fun fact: I always finish what I start — unless I get lost in the Matrix 👀
+ Fun fact: I always finish what I start — unless I get lost in the Matrix 👀
 ---
 
 Thanks for visiting my profile! Let's build and grow together.
